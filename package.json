@@ -1,0 +1,24 @@
+{
+  "name": "recteatro",
+  "version": "1.0.0",
+  "description": "Agenda de espetaculos de teatro da cidade do Recife",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cahueby/RecTeatro.git"
+  },
+  "keywords": [
+    "RecTeatro",
+    "teatro",
+    "recife"
+  ],
+  "author": "Cahue Beltrao, \tIago Belo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cahueby/RecTeatro/issues"
+  },
+  "homepage": "https://github.com/cahueby/RecTeatro#readme"
+}
