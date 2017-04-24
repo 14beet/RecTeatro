@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/cahueby/RecTeatro/issues"
   },
-  "homepage": "https://github.com/cahueby/RecTeatro#readme"
+  "homepage": "https://github.com/cahueby/RecTeatro#readme",
+  "dependencies": {
+    "materialize-css": "^0.98.2"
+  }
 }
