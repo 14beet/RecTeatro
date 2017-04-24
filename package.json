@@ -23,5 +23,8 @@
   "homepage": "https://github.com/cahueby/RecTeatro#readme",
   "dependencies": {
     "materialize-css": "^0.98.2"
+  },
+  "devDependencies": {
+    "materialize-css": "^0.98.2"
   }
 }
